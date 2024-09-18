@@ -26,6 +26,7 @@ hypr_package=(
   fish
   #kitty
   kvantum
+  libsecret
   nano  
   network-manager-applet 
   pamixer 

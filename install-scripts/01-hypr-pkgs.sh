@@ -43,7 +43,7 @@ hypr_package=(
   swappy 
   swaync 
   swww
-  tuigreet
+  greetd-tuigreet
   wallust 
   waybar
   wget

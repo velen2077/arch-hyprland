@@ -42,7 +42,8 @@ hypr_package=(
   rofi-wayland
   slurp 
   swappy 
-  swaync 
+  swaync
+  swaybg
   swww
   greetd-tuigreet
   wallust 
